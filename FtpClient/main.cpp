@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "FtpClient.h"
-#include <vld.h>
+//#include <vld.h>
 
 int main()
 {
